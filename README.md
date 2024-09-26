@@ -4,3 +4,4 @@
 <a href="https://github.com/Kowshik1759/23CSBTB28/blob/main/lab3.ipynb">Lab3</a></br>
 <a href="https://github.com/Kowshik1759/23CSBTB28/blob/main/Lab04-AIML.ipynb">Lab4</a></br>
 <a href="https://github.com/Kowshik1759/23CSBTB28/blob/main/Lab_5.ipynb">Lab5</a></br>
+<a href="https://github.com/Kowshik1759/23CSBTB28/blob/main/Lab_6.ipynb">Lab6</a></br>
