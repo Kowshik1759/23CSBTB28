@@ -6,4 +6,4 @@
 <a href="https://github.com/Kowshik1759/23CSBTB28/blob/main/Lab_5.ipynb">Lab5</a></br>
 <a href="https://github.com/Kowshik1759/23CSBTB28/blob/main/Lab_6.ipynb">Lab6</a></br>
 <a href="https://github.com/Kowshik1759/23CSBTB28/blob/main/Lab_7.ipynb">Lab7</a></br>
-
+<a href="https://github.com/Kowshik1759/23CSBTB28/blob/main/labexam_LR.ipynb">Lab Exam</a></br>
